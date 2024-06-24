@@ -65,22 +65,29 @@
 12.⁠ ⁠Hacer el primer commit de este trabajo y unirlo al repositorio remoto.
 
 
+##Actividad 
+# Entendiendo el Pip en el Trading
 
-# Actividad en Python: Configuración de Entorno de Desarrollo
+## ¿Qué es un Pip?
 
-## Introducción
+Un **pip** es una unidad estándar utilizada en trading para medir cuánto ha cambiado la cotización de un activo. Originalmente, un pip representaba el incremento más pequeño en el que se movía el precio de un par de divisas. Sin embargo, debido a la mayor precisión en las cotizaciones, ahora se considera generalmente como el movimiento en el cuarto decimal en la mayoría de los pares de divisas.
 
-En esta guía, configuraremos un entorno de desarrollo en Python. Este proceso incluye la creación de un directorio, la inicialización de un repositorio Git, la creación de un entorno virtual y la actualización de `pip`. Siguiendo estos pasos, estarás preparado para comenzar a programar en Python de manera eficiente.
+### Ejemplo:
+Si el par EUR/USD aumenta en 55 pips, significa que ha subido 0.0055 en su cotización.
 
-## Pasos para Configurar el Entorno
+## ¿Por qué es importante actualizar el Pip?
 
-### 1. Abrir la Terminal
+El valor del pip está estrechamente relacionado con el tamaño del contrato o el volumen de lotes que se negocian en el mercado de divisas. Mantenerse al día con las cotizaciones y los cambios en los precios es crucial para evaluar el riesgo y proteger a los inversores de grandes pérdidas. 
 
-Abre la terminal de Git Bash (en Windows) o la terminal en Linux. En Windows, asegúrate de ejecutar Git Bash como administrador para tener los permisos necesarios.
+### Importancia de los Pips en el Trading:
 
-### 2. Crear un Directorio
+- **Evaluación del Riesgo**: Conocer los movimientos de los pips es esencial para calcular la exposición al riesgo en cada operación.
+- **Decisiones Informadas**: Estar al tanto de los cambios en los pips ayuda a los traders a tomar decisiones basadas en información actualizada y precisa.
+- **Protección de Inversiones**: Monitorear los pips permite a los traders implementar estrategias para minimizar pérdidas potenciales.
 
-Crea una nueva carpeta llamada `python-final` donde almacenarás tu proyecto. Esto se logra con el siguiente comando:
+Estar atento a los movimientos de los pips es fundamental para tomar decisiones informadas y gestionar eficazmente el riesgo en el trading de divisas.
 
-```bash
-mkdir python-final
+---
+
+1. *Referencia del ejemplo de movimiento de pips en EUR/USD: Si el EUR/USD aumenta en 55 pips, significa que ha subido 0.0055 en su cotización.*
+2. *Razones para la importancia de estar al tanto de los movimientos de los pips en el trading.*
